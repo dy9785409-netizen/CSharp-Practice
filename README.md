@@ -1,3 +1,3 @@
-# Day 03 — Aaj maine kya seekha
+# Day 04 — Aaj maine kya seekha
 
-Aaj maine C# mein `if`, `else if` aur `else` ka use karke conditions ke basis par decision lena seekha. Boolean expression se result check karna bhi seekha.
+Aaj maine C# mein `for` aur `while` loop ka use karke code ko baar-baar chalana seekha. Counter ko update karke repetition control karna bhi seekha.
