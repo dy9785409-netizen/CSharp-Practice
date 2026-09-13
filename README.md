@@ -1,3 +1,3 @@
-# Day 05 — Aaj maine kya seekha
+# Day 06 — Aaj maine kya seekha
 
-Aaj maine C# mein methods banana aur unhe call karna seekha. Parameters ke through values bhejna, return value lena aur method ke andar condition use karna bhi seekha.
+Aaj maine C# mein class banana, uski properties define karna, object create karna aur class ke method ko call karke data display karna seekha.
