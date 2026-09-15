@@ -1,3 +1,3 @@
-# Day 07 — Aaj maine kya seekha
+# Day 08 — Aaj maine kya seekha
 
-Aaj maine C# mein constructor banana seekha, jo object create hote hi initial values set karta hai. Constructor ke through class properties ko initialize karke object ka data ready karna bhi seekha.
+Aaj maine C# mein List collection ka use karke multiple course names store, display aur add karna seekha. foreach loop aur Count property se collection par kaam karna bhi seekha.
